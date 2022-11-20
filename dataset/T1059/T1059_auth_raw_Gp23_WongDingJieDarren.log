@@ -1,0 +1,98 @@
+Oct 24 12:44:08 hostA sudo[7]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:44:08 hostA sudo[23]:   albert : PWD=/ ; USER=root ; COMMAND=/usr/sbin/service ssh start
+Oct 24 12:44:08 hostA sudo[23]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:44:08 hostA sudo[23]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:44:08 hostA sshd[34]: Server listening on 0.0.0.0 port 22.
+Oct 24 12:44:08 hostA sshd[34]: Server listening on :: port 22.
+Oct 24 12:45:11 hostA sudo[44]:   albert : PWD=/ ; USER=root ; COMMAND=/bin/bash
+Oct 24 12:45:11 hostA sudo[44]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:45:11 hostA sudo[51]:     root : PWD=/ ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 24 12:45:11 hostA sudo[51]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Oct 24 12:45:11 hostA sudo[51]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:45:11 hostA sudo[44]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:46:08 hostA sudo[288]:   albert : PWD=/ ; USER=root ; COMMAND=/usr/bin/packetbeat setup
+Oct 24 12:46:08 hostA sudo[288]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:46:22 hostA sudo[288]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:46:22 hostA sudo[304]:   albert : PWD=/ ; USER=root ; COMMAND=/usr/sbin/service packetbeat start
+Oct 24 12:46:22 hostA sudo[304]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:46:22 hostA runuser[310]: pam_limits(runuser:session): Could not set limit for 'core' to soft=-1, hard=-1: Operation not permitted; uid=0,euid=0
+Oct 24 12:46:22 hostA runuser[310]: pam_unix(runuser:session): session opened for user root(uid=0) by (uid=0)
+Oct 24 12:46:22 hostA runuser[310]: pam_unix(runuser:session): session closed for user root
+Oct 24 12:46:22 hostA sudo[304]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:46:22 hostA sudo[320]:   albert : PWD=/ ; USER=root ; COMMAND=/usr/bin/filebeat setup
+Oct 24 12:46:22 hostA sudo[320]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:46:27 hostA sudo[320]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:46:27 hostA sudo[337]:   albert : PWD=/ ; USER=root ; COMMAND=/usr/sbin/service filebeat start
+Oct 24 12:46:27 hostA sudo[337]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:46:27 hostA runuser[343]: pam_limits(runuser:session): Could not set limit for 'core' to soft=-1, hard=-1: Operation not permitted; uid=0,euid=0
+Oct 24 12:46:27 hostA runuser[343]: pam_unix(runuser:session): session opened for user root(uid=0) by (uid=0)
+Oct 24 12:46:29 hostA runuser[343]: pam_unix(runuser:session): session closed for user root
+Oct 24 12:46:29 hostA sudo[337]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:46:29 hostA sudo[355]:   albert : PWD=/ ; USER=root ; COMMAND=/usr/bin/metricbeat setup
+Oct 24 12:46:29 hostA sudo[355]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:46:59 hostA sudo[381]:   albert : PWD=/ ; USER=root ; COMMAND=/bin/su
+Oct 24 12:46:59 hostA sudo[381]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:46:59 hostA su[383]: (to root) root on none
+Oct 24 12:46:59 hostA su[383]: pam_env(su:session): Unable to open env file: /etc/default/locale: No such file or directory
+Oct 24 12:46:59 hostA su[383]: pam_limits(su:session): Could not set limit for 'core' to soft=-1, hard=-1: Operation not permitted; uid=0,euid=0
+Oct 24 12:46:59 hostA su[383]: pam_unix(su:session): session opened for user root(uid=0) by (uid=0)
+Oct 24 12:47:48 hostA su[383]: pam_unix(su:session): session closed for user root
+Oct 24 12:47:48 hostA sudo[381]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:48:09 hostA sudo[406]:   albert : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/bin/su
+Oct 24 12:48:09 hostA sudo[406]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:48:09 hostA su[408]: (to root) root on pts/0
+Oct 24 12:48:09 hostA su[408]: pam_env(su:session): Unable to open env file: /etc/default/locale: No such file or directory
+Oct 24 12:48:09 hostA su[408]: pam_limits(su:session): Could not set limit for 'core' to soft=-1, hard=-1: Operation not permitted; uid=0,euid=0
+Oct 24 12:48:09 hostA su[408]: pam_unix(su:session): session opened for user root(uid=0) by (uid=0)
+Oct 24 12:48:28 hostA sudo[355]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:48:28 hostA sudo[412]:   albert : PWD=/ ; USER=root ; COMMAND=/usr/sbin/service metricbeat start
+Oct 24 12:48:28 hostA sudo[412]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:48:28 hostA runuser[420]: pam_limits(runuser:session): Could not set limit for 'core' to soft=-1, hard=-1: Operation not permitted; uid=0,euid=0
+Oct 24 12:48:28 hostA runuser[420]: pam_unix(runuser:session): session opened for user root(uid=0) by (uid=0)
+Oct 24 12:48:31 hostA runuser[420]: pam_unix(runuser:session): session closed for user root
+Oct 24 12:48:31 hostA sudo[412]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:48:52 hostA su[408]: pam_unix(su:session): session closed for user root
+Oct 24 12:48:52 hostA sudo[406]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:49:02 hostA sudo[444]:   albert : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/bin/bash
+Oct 24 12:49:02 hostA sudo[444]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:49:02 hostA sudo[449]:     root : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 24 12:49:02 hostA sudo[449]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Oct 24 12:49:03 hostA sudo[449]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:49:03 hostA sudo[444]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:49:14 hostA sudo[686]:   albert : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/bin/su
+Oct 24 12:49:14 hostA sudo[686]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:49:14 hostA su[688]: (to root) root on pts/0
+Oct 24 12:49:14 hostA su[688]: pam_env(su:session): Unable to open env file: /etc/default/locale: No such file or directory
+Oct 24 12:49:14 hostA su[688]: pam_limits(su:session): Could not set limit for 'core' to soft=-1, hard=-1: Operation not permitted; uid=0,euid=0
+Oct 24 12:49:14 hostA su[688]: pam_unix(su:session): session opened for user root(uid=0) by (uid=0)
+Oct 24 12:49:43 hostA su[688]: pam_unix(su:session): session closed for user root
+Oct 24 12:49:43 hostA sudo[686]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:49:48 hostA sudo[694]:   albert : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/bin/ls /var/log
+Oct 24 12:49:48 hostA sudo[694]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:49:48 hostA sudo[694]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:50:08 hostA sudo[697]:   albert : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/sbin/service ssh status
+Oct 24 12:50:08 hostA sudo[697]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:50:08 hostA sudo[697]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:50:20 hostA sudo[713]:   albert : TTY=pts/0 ; PWD=/home/albert ; USER=root ; COMMAND=/usr/bin/touch hello world
+Oct 24 12:50:20 hostA sudo[713]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:50:20 hostA sudo[713]: pam_unix(sudo:session): session closed for user root
+Oct 24 12:50:26 hostA sudo[717]:   albert : TTY=pts/0 ; PWD=/home/albert ; USER=root ; COMMAND=/bin/su
+Oct 24 12:50:26 hostA sudo[717]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 12:50:26 hostA su[718]: (to root) root on pts/0
+Oct 24 12:50:26 hostA su[718]: pam_env(su:session): Unable to open env file: /etc/default/locale: No such file or directory
+Oct 24 12:50:26 hostA su[718]: pam_limits(su:session): Could not set limit for 'core' to soft=-1, hard=-1: Operation not permitted; uid=0,euid=0
+Oct 24 12:50:26 hostA su[718]: pam_unix(su:session): session opened for user root(uid=0) by (uid=0)
+Oct 24 13:02:32 hostA su[718]: pam_unix(su:session): session closed for user root
+Oct 24 13:02:32 hostA sudo[717]: pam_unix(sudo:session): session closed for user root
+Oct 24 13:15:35 hostA sudo[733]:   albert : PWD=/ ; USER=root ; COMMAND=/bin/bash
+Oct 24 13:15:35 hostA sudo[733]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 13:15:35 hostA sudo[740]:     root : PWD=/ ; USER=root ; COMMAND=/usr/bin/apt-get update
+Oct 24 13:15:35 hostA sudo[740]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Oct 24 13:15:36 hostA sudo[740]: pam_unix(sudo:session): session closed for user root
+Oct 24 13:15:36 hostA sudo[733]: pam_unix(sudo:session): session closed for user root
+Oct 24 13:28:16 hostA sudo[1005]:   albert : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/bin/su
+Oct 24 13:28:16 hostA sudo[1005]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+Oct 24 13:28:16 hostA su[1007]: (to root) root on pts/0
+Oct 24 13:28:16 hostA su[1007]: pam_env(su:session): Unable to open env file: /etc/default/locale: No such file or directory
+Oct 24 13:28:16 hostA su[1007]: pam_limits(su:session): Could not set limit for 'core' to soft=-1, hard=-1: Operation not permitted; uid=0,euid=0
+Oct 24 13:28:16 hostA su[1007]: pam_unix(su:session): session opened for user root(uid=0) by (uid=0)

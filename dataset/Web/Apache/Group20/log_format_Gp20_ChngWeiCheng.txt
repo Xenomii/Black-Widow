@@ -1,0 +1,1 @@
+ApacheRaw: Domain Name, Timestamp, Access Request, Result Status Code, Bytes Transferred, Referral URL, User Agent

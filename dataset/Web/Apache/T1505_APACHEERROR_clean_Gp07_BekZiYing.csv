@@ -1,0 +1,66 @@
+timestamp,classification,host.ip,message,process_id
+Tue Oct 25 16:26:42.030910 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39978] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 699",pid 550
+Tue Oct 25 16:26:42.030921 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39978] PHP Warning:  Undefined array key ""scheme"" in /var/www/html/wp-includes/canonical.php on line 720",pid 550
+Tue Oct 25 16:26:42.030958 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39978] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 687",pid 550
+Tue Oct 25 16:26:42.030962 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39978] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 696",pid 550
+Tue Oct 25 16:26:42.030964 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39978] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 699",pid 550
+Tue Oct 25 16:26:42.030966 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39978] PHP Warning:  Undefined array key ""scheme"" in /var/www/html/wp-includes/canonical.php on line 720",pid 550
+Tue Oct 25 16:26:41.686688 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39974] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 696",pid 64
+Tue Oct 25 16:26:41.686693 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39974] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 699",pid 64
+Tue Oct 25 16:26:41.686697 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39974] PHP Warning:  Undefined array key ""scheme"" in /var/www/html/wp-includes/canonical.php on line 720",pid 64
+Tue Oct 25 16:26:41.686755 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39974] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 687",pid 64
+Tue Oct 25 16:26:41.686760 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39974] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 696",pid 64
+Tue Oct 25 16:26:41.686763 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39974] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 699",pid 64
+Tue Oct 25 16:26:41.686765 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39974] PHP Warning:  Undefined array key ""scheme"" in /var/www/html/wp-includes/canonical.php on line 720",pid 64
+Tue Oct 25 16:26:42.030877 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39978] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 687",pid 550
+Tue Oct 25 16:26:42.030907 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39978] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 696",pid 550
+Tue Oct 25 16:26:41.684581 2022,php:warn,"172.18.1.0, 172.17.0.2","[client 10.0.0.3:39974] PHP Warning:  Undefined array key ""host"" in /var/www/html/wp-includes/canonical.php on line 687",pid 64
+Tue Oct 25 16:23:29.655699 2022,php:warn,"172.18.1.0, 172.17.0.2",[client 10.0.0.3:45844] PHP Warning:  Undefined variable $daemon in /var/www/html/php-reverse-shell.php on line 184,pid 60
+Tue Oct 25 16:23:29.659152 2022,php:warn,"172.18.1.0, 172.17.0.2",[client 10.0.0.3:45844] PHP Warning:  Undefined variable $daemon in /var/www/html/php-reverse-shell.php on line 184,pid 60
+-,-,"172.18.1.0, 172.17.0.2",Connecting to 10.0.0.3:80... connected.,-
+-,-,"172.18.1.0, 172.17.0.2","HTTP request sent, awaiting response... 200 OK",-
+-,-,"172.18.1.0, 172.17.0.2",Length: 5490 (5.4K) [application/octet-stream],-
+-,-,"172.18.1.0, 172.17.0.2",Saving to: 'php-reverse-shell.php.1',-
+-,-,"172.18.1.0, 172.17.0.2",     0K .....                                                 100%  441M=0s,-
+-,-,"172.18.1.0, 172.17.0.2",2022-10-25 16:23:06 (441 MB/s) - 'php-reverse-shell.php.1' saved [5490/5490],-
+-,-,"172.18.1.0, 172.17.0.2",--2022-10-25 16:23:06--  http://10.0.0.3/php-reverse-shell.php,-
+Tue Oct 25 07:43:13.065454 2022,core:warn,172.18.1.0,AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?,pid 99
+Tue Oct 25 07:43:13.067398 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 99
+Tue Oct 25 07:43:13.067434 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2',pid 99
+Tue Oct 25 16:12:13.083614 2022,core:warn,172.18.1.0,AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?,pid 55
+Tue Oct 25 16:12:13.084718 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 55
+Tue Oct 25 16:12:13.084727 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2',pid 55
+Thu Oct 20 16:12:18.577725 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 8
+Thu Oct 20 16:12:18.577750 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND',pid 8
+-,-,172.18.1.0,"AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message",-
+Thu Oct 20 16:14:41.177710 2022,core:warn,172.18.1.0,AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?,pid 8
+Thu Oct 20 16:14:41.179311 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 8
+Thu Oct 20 16:14:41.179323 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND',pid 8
+-,-,172.18.1.0,"AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message",-
+Thu Oct 20 19:01:00.194192 2022,core:warn,172.18.1.0,AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?,pid 8
+Thu Oct 20 19:01:00.196048 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 8
+Thu Oct 20 19:01:00.196069 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND',pid 8
+-,-,172.18.1.0,"AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message",-
+Fri Oct 21 05:16:58.588740 2022,core:warn,172.18.1.0,AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?,pid 8
+Fri Oct 21 05:16:58.592537 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 8
+Fri Oct 21 05:16:58.592552 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND',pid 8
+Fri Oct 21 14:44:40.566935 2022,core:warn,172.18.1.0,AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?,pid 71
+Fri Oct 21 14:44:40.569246 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 71
+Fri Oct 21 14:44:40.569257 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2',pid 71
+Sun Oct 23 17:55:31.851594 2022,core:warn,172.18.1.0,AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?,pid 70
+Sun Oct 23 17:55:31.853305 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 70
+Sun Oct 23 17:55:31.853316 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2',pid 70
+Thu Oct 20 16:12:18.575563 2022,core:warn,172.18.1.0,AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?,pid 8
+Wed Oct 19 12:02:02.139911 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 8
+Wed Oct 19 12:02:02.139940 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND',pid 8
+Wed Oct 19 12:19:04.179279 2022,php:notice,172.18.1.0,"[client 172.17.0.1:53344] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://localhost:8080/wp-admin/setup-config.php?step=1",pid 9
+-,-,172.18.1.0,"AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message",-
+Wed Oct 19 19:48:28.586215 2022,core:warn,172.18.1.0,AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?,pid 8
+Wed Oct 19 19:48:28.588455 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 8
+Wed Oct 19 19:48:28.588470 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND',pid 8
+-,-,172.18.1.0,"AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message",-
+Thu Oct 20 10:34:05.417153 2022,core:warn,172.18.1.0,AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?,pid 8
+Thu Oct 20 10:34:05.419467 2022,mpm_prefork:notice,172.18.1.0,AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations,pid 8
+Thu Oct 20 10:34:05.419482 2022,core:notice,172.18.1.0,AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND',pid 8
+-,-,172.18.1.0,"AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message",-
+-,-,172.18.1.0,"AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message",-

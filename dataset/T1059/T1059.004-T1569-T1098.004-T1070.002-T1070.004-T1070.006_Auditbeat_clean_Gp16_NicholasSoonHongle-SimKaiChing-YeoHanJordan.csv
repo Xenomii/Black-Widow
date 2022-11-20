@@ -1,0 +1,275 @@
+@timestamp,file.mtime,event.action,file.path,file.owner,related.user
+"Oct 22, 2022 @ 15:32:38.540","Oct 22, 2022 @ 15:32:38.534","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:32:38.526","Oct 22, 2022 @ 15:32:38.522","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:32:38.525","Oct 22, 2022 @ 15:32:38.518","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:32:38.521","Oct 22, 2022 @ 15:32:38.518","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:32:14.789","Oct 22, 2022 @ 15:32:14.782","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:32:14.787","Oct 22, 2022 @ 15:32:14.782","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:32:14.785","Oct 22, 2022 @ 15:32:14.778","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:31:08.218","Oct 22, 2022 @ 15:31:08.215","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:31:08.216","Oct 22, 2022 @ 15:31:08.211","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:31:08.215","Oct 22, 2022 @ 15:31:08.211","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:31:08.214","Oct 22, 2022 @ 15:31:08.211","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:31:08.213","Oct 22, 2022 @ 15:31:08.207","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:30:01.722","Oct 22, 2022 @ 15:30:01.720","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:30:01.719","Oct 22, 2022 @ 15:30:01.716","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:30:01.718","Oct 22, 2022 @ 15:30:01.716","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:29:43.803","Oct 22, 2022 @ 15:29:43.801","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:29:43.798","Oct 22, 2022 @ 15:29:43.797","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:29:43.798","Oct 22, 2022 @ 15:29:43.797","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:29:43.796","Oct 22, 2022 @ 15:29:43.793","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:25:37.604","Oct 22, 2022 @ 15:25:37.601","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:25:37.601","Oct 22, 2022 @ 15:25:37.597","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:25:37.599","Oct 22, 2022 @ 15:25:37.597","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:23:42.992","Oct 22, 2022 @ 15:23:42.987","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:23:42.989","Oct 22, 2022 @ 15:23:42.983","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:23:42.988","Oct 22, 2022 @ 15:23:42.983","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:23:42.986","Oct 22, 2022 @ 15:23:42.983","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:23:05.597",-,process_stopped,-,-,-
+"Oct 22, 2022 @ 15:22:59.642","Oct 22, 2022 @ 15:22:59.640","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:22:59.639",-,deleted,/home/adam/cleanup.sh~,-,-
+"Oct 22, 2022 @ 15:22:59.639",-,deleted,/home/adam/.cleanup.sh.swp,-,-
+"Oct 22, 2022 @ 15:22:59.638","Oct 22, 2022 @ 15:22:59.632","updated, attributes_modified",/home/adam/.cleanup.sh.swp,root,-
+"Oct 22, 2022 @ 15:22:59.637",-,attributes_modified,/home/adam/cleanup.sh~,-,-
+"Oct 22, 2022 @ 15:22:59.637","Oct 22, 2022 @ 15:22:59.632","updated, attributes_modified",/home/adam/cleanup.sh,vagrant,-
+"Oct 22, 2022 @ 15:22:59.634",-,deleted,/home/adam/4913,-,-
+"Oct 22, 2022 @ 15:22:59.634","Oct 22, 2022 @ 15:21:38.000",created,/home/adam/cleanup.sh~,root,-
+"Oct 22, 2022 @ 15:22:55.779","Oct 22, 2022 @ 15:22:55.776","updated, attributes_modified",/home/adam/.cleanup.sh.swp,root,-
+"Oct 22, 2022 @ 15:22:55.597",-,process_started,-,-,-
+"Oct 22, 2022 @ 15:22:51.554",-,created,/home/adam/.cleanup.sh.swx,-,-
+"Oct 22, 2022 @ 15:22:51.554",-,deleted,/home/adam/.cleanup.sh.swx,-,-
+"Oct 22, 2022 @ 15:22:51.554","Oct 22, 2022 @ 15:22:51.552","updated, attributes_modified",/home/adam/.cleanup.sh.swp,root,-
+"Oct 22, 2022 @ 15:22:51.554","Oct 22, 2022 @ 15:22:51.552",attributes_modified,/home/adam/.cleanup.sh.swp,root,-
+"Oct 22, 2022 @ 15:22:51.553","Oct 22, 2022 @ 15:22:51.548",created,/home/adam/.cleanup.sh.swp,root,-
+"Oct 22, 2022 @ 15:22:51.492","Oct 22, 2022 @ 15:22:51.488","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:22:51.491","Oct 22, 2022 @ 15:22:51.488","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:22:51.490","Oct 22, 2022 @ 15:22:51.488","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:22:22.311",-,deleted,/home/adam/exfiltrated.sql,-,-
+"Oct 22, 2022 @ 15:21:45.596",-,process_stopped,-,-,-
+"Oct 22, 2022 @ 15:21:38.694",-,deleted,/home/adam/.cleanup.sh.swp,-,-
+"Oct 22, 2022 @ 15:21:38.694","Oct 22, 2022 @ 15:21:38.693","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:38.692",-,deleted,/home/adam/cleanup.sh~,-,-
+"Oct 22, 2022 @ 15:21:38.691",-,attributes_modified,/home/adam/.cleanup.sh.swp,-,-
+"Oct 22, 2022 @ 15:21:38.689",-,attributes_modified,/home/adam/cleanup.sh~,-,-
+"Oct 22, 2022 @ 15:21:38.689","Oct 22, 2022 @ 15:21:38.685","updated, attributes_modified",/home/adam/cleanup.sh,vagrant,-
+"Oct 22, 2022 @ 15:21:38.688",-,deleted,/home/adam/4913,-,-
+"Oct 22, 2022 @ 15:21:38.688","Oct 22, 2022 @ 15:13:34.000",created,/home/adam/cleanup.sh~,root,-
+"Oct 22, 2022 @ 15:21:38.687",-,created,/home/adam/4913,-,-
+"Oct 22, 2022 @ 15:21:35.596",-,process_started,-,-,-
+"Oct 22, 2022 @ 15:21:35.169","Oct 22, 2022 @ 15:21:35.165","updated, attributes_modified",/home/adam/.cleanup.sh.swp,root,-
+"Oct 22, 2022 @ 15:21:26.323","Oct 22, 2022 @ 15:21:26.313","updated, attributes_modified",/home/adam/.cleanup.sh.swp,root,-
+"Oct 22, 2022 @ 15:21:26.321","Oct 22, 2022 @ 15:21:26.313",created,/home/adam/.cleanup.sh.swp,root,-
+"Oct 22, 2022 @ 15:21:26.321","Oct 22, 2022 @ 15:21:26.313",created,/home/adam/.cleanup.sh.swx,root,-
+"Oct 22, 2022 @ 15:21:26.321",-,deleted,/home/adam/.cleanup.sh.swx,-,-
+"Oct 22, 2022 @ 15:21:26.236","Oct 22, 2022 @ 15:21:26.229","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:26.236","Oct 22, 2022 @ 15:21:26.229","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.691","Oct 22, 2022 @ 15:21:03.686","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.690","Aug 21, 2021 @ 15:10:13.690",attributes_modified,/usr/bin/service.sh,root,-
+"Oct 22, 2022 @ 15:21:03.688","Oct 22, 2022 @ 15:21:03.682","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.687","Oct 22, 2022 @ 15:21:03.682","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.687","Oct 22, 2022 @ 15:21:03.682","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.682","Oct 22, 2022 @ 15:21:03.674","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.681","Aug 20, 2021 @ 14:32:53.680",attributes_modified,/etc/init.d/initservice.sh,root,-
+"Oct 22, 2022 @ 15:21:03.678","Oct 22, 2022 @ 15:21:03.674","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.677","Oct 22, 2022 @ 15:21:03.670","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.672","Oct 22, 2022 @ 15:21:03.666","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.670","Jun 22, 2022 @ 14:57:03.670",attributes_modified,/etc/passwd,root,-
+"Oct 22, 2022 @ 15:21:03.668","Oct 22, 2022 @ 15:21:03.662","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.668","Oct 22, 2022 @ 15:21:03.662","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.667","Oct 22, 2022 @ 15:21:03.662","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.662","Oct 22, 2022 @ 15:21:03.658","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.659","Oct 22, 2022 @ 15:21:03.654","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.659","Oct 22, 2022 @ 15:21:03.654","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.658","Oct 22, 2022 @ 15:21:03.654","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.653",-,deleted,/home/adam/modify.sh,-,-
+"Oct 22, 2022 @ 15:21:03.653","Oct 22, 2022 @ 15:21:03.646","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.650","Oct 22, 2022 @ 15:21:03.646","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.649","Oct 22, 2022 @ 15:21:03.642","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.643","Oct 22, 2022 @ 15:21:03.638","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.641",-,deleted,/home/adam/exfil.sh,-,-
+"Oct 22, 2022 @ 15:21:03.638","Oct 22, 2022 @ 15:21:03.634","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.638","Oct 22, 2022 @ 15:21:03.634","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.637","Oct 22, 2022 @ 15:21:03.630","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.631","Oct 22, 2022 @ 15:21:03.626","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.629",-,deleted,/home/adam/initservice.sh,-,-
+"Oct 22, 2022 @ 15:21:03.627","Oct 22, 2022 @ 15:21:03.622","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.626","Oct 22, 2022 @ 15:21:03.618","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.620","Oct 22, 2022 @ 15:21:03.614","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.619",-,deleted,/home/adam/service.sh,-,-
+"Oct 22, 2022 @ 15:21:03.616","Oct 22, 2022 @ 15:21:03.614","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.615","Oct 22, 2022 @ 15:21:03.614","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.610","Oct 22, 2022 @ 15:21:03.606","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.609",-,deleted,/home/adam/run.sh,-,-
+"Oct 22, 2022 @ 15:21:03.606","Oct 22, 2022 @ 15:21:03.602","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.606","Oct 22, 2022 @ 15:21:03.602","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.604","Oct 22, 2022 @ 15:21:03.602","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.598","Oct 22, 2022 @ 15:21:03.594","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.596","Oct 22, 2022 @ 15:21:03.594","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.594","Oct 22, 2022 @ 15:21:03.594","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.590","Oct 22, 2022 @ 15:21:03.586","updated, attributes_modified",/home/adam/.bash_history,adam,-
+"Oct 22, 2022 @ 15:21:03.583","Oct 22, 2022 @ 15:21:03.578","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.579","Oct 22, 2022 @ 15:21:03.574","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.579","Oct 22, 2022 @ 15:21:03.574","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.578","Oct 22, 2022 @ 15:21:03.574","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.578","Oct 22, 2022 @ 15:21:03.574","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:21:03.570","Oct 22, 2022 @ 15:21:03.566","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:20:10.254","Oct 22, 2022 @ 15:20:10.251","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:20:10.252","Oct 22, 2022 @ 15:13:34.000",attributes_modified,/home/adam/cleanup.sh,vagrant,-
+"Oct 22, 2022 @ 15:20:10.250","Oct 22, 2022 @ 15:20:10.243","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:20:10.248","Oct 22, 2022 @ 15:20:10.243","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:20:10.247","Oct 22, 2022 @ 15:20:10.243","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:19:48.682",-,user_login,-,-,adam
+"Oct 22, 2022 @ 15:19:48.678","Oct 22, 2022 @ 15:19:48.675","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:19:48.643","Oct 22, 2022 @ 15:19:48.639","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:19:48.642","Oct 22, 2022 @ 15:19:48.639","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:19:48.633","Oct 22, 2022 @ 15:19:48.627","updated, attributes_modified",/var/log/auth.log,syslog,-
+"Oct 22, 2022 @ 15:19:40.635","Oct 22, 2022 @ 15:13:34.000",created,/home/adam/cleanup.sh,vagrant,-
+"Oct 22, 2022 @ 15:19:03.874","Oct 22, 2022 @ 14:20:52.159",attributes_modified,/etc/mtab,root,-
+"Oct 22, 2022 @ 15:19:01.497",-,host,-,-,-
+"Oct 22, 2022 @ 15:13:19.707",-,user_login,-,-,adam
+"Oct 22, 2022 @ 15:10:14.425",-,user_login,-,-,vagrant
+"Oct 22, 2022 @ 14:29:56.524",-,process_stopped,-,-,-
+"Oct 22, 2022 @ 14:29:46.524",-,process_started,-,-,-
+"Oct 22, 2022 @ 14:26:05.923",-,updated,/home/adam/.ssh/authorized_keys,,adam
+"Oct 22, 2022 @ 14:24:14.886",-,user_added,-,-,rootusr
+"Oct 22, 2022 @ 14:24:09.674",-,deleted,/etc/passwd.lock,-,-
+"Oct 22, 2022 @ 14:24:09.673",-,deleted,/etc/shadow.lock,-,-
+"Oct 22, 2022 @ 14:24:09.671",-,deleted,/etc/gshadow.lock,-,-
+"Oct 22, 2022 @ 14:24:09.671",-,deleted,/etc/group.lock,-,-
+"Oct 22, 2022 @ 14:24:09.670",-,moved,/etc/gshadow+,-,-
+"Oct 22, 2022 @ 14:24:09.670","Oct 22, 2022 @ 14:24:09.662","updated, attributes_modified",/etc/gshadow,root,-
+"Oct 22, 2022 @ 14:24:09.668","Oct 22, 2022 @ 14:24:09.658","updated, attributes_modified",/etc/group,root,-
+"Oct 22, 2022 @ 14:24:09.668","Oct 22, 2022 @ 14:24:09.000","updated, attributes_modified",/etc/gshadow-,root,-
+"Oct 22, 2022 @ 14:24:09.667",-,moved,/etc/group+,-,-
+"Oct 22, 2022 @ 14:24:09.665","Oct 22, 2022 @ 14:24:09.000","updated, attributes_modified",/etc/group-,root,-
+"Oct 22, 2022 @ 14:24:09.664","Oct 22, 2022 @ 14:24:09.658",created,/etc/gshadow.lock,root,-
+"Oct 22, 2022 @ 14:24:09.664",-,deleted,/etc/gshadow.525,-,-
+"Oct 22, 2022 @ 14:24:09.663","Oct 22, 2022 @ 14:24:09.658",created,/etc/group.lock,root,-
+"Oct 22, 2022 @ 14:24:09.663",-,deleted,/etc/group.525,-,-
+"Oct 22, 2022 @ 14:24:09.662",-,deleted,/etc/passwd.525,-,-
+"Oct 22, 2022 @ 14:24:09.662","Oct 22, 2022 @ 14:24:09.658",created,/etc/shadow.lock,root,-
+"Oct 22, 2022 @ 14:24:09.662",-,deleted,/etc/shadow.525,-,-
+"Oct 22, 2022 @ 14:24:09.661","Oct 22, 2022 @ 14:24:09.658",created,/etc/passwd.lock,root,-
+"Oct 22, 2022 @ 14:24:09.637",-,moved,/etc/nshadow,-,-
+"Oct 22, 2022 @ 14:24:09.637","Oct 22, 2022 @ 14:24:09.630","updated, attributes_modified",/etc/shadow,root,-
+"Oct 22, 2022 @ 14:24:09.635","Oct 22, 2022 @ 14:24:09.630",created,/etc/nshadow,root,-
+"Oct 22, 2022 @ 14:24:09.617",-,deleted,/etc/subgid.lock,-,-
+"Oct 22, 2022 @ 14:24:09.616",-,deleted,/etc/group.lock,-,-
+"Oct 22, 2022 @ 14:24:09.616",-,deleted,/etc/gshadow.lock,-,-
+"Oct 22, 2022 @ 14:24:09.616",-,deleted,/etc/subuid.lock,-,-
+"Oct 22, 2022 @ 14:24:09.615",-,deleted,/etc/passwd.lock,-,-
+"Oct 22, 2022 @ 14:24:09.614","Oct 22, 2022 @ 14:24:09.602","updated, attributes_modified",/etc/subgid,root,-
+"Oct 22, 2022 @ 14:24:09.614",-,deleted,/etc/shadow.lock,-,-
+"Oct 22, 2022 @ 14:24:09.613","Oct 22, 2022 @ 14:24:09.602","updated, attributes_modified",/etc/subuid,root,-
+"Oct 22, 2022 @ 14:24:09.613","Oct 4, 2022 @ 05:41:49.000",created,/etc/subgid-,root,-
+"Oct 22, 2022 @ 14:24:09.613",-,moved,/etc/subgid+,-,-
+"Oct 22, 2022 @ 14:24:09.612",-,moved,/etc/subuid+,-,-
+"Oct 22, 2022 @ 14:24:09.611","Oct 22, 2022 @ 14:24:09.602","updated, attributes_modified",/etc/gshadow,root,-
+"Oct 22, 2022 @ 14:24:09.611","Oct 4, 2022 @ 05:41:49.000",created,/etc/subuid-,root,-
+"Oct 22, 2022 @ 14:24:09.610",-,moved,/etc/gshadow+,-,-
+"Oct 22, 2022 @ 14:24:09.608","Oct 22, 2022 @ 14:24:09.598","updated, attributes_modified",/etc/group,root,-
+"Oct 22, 2022 @ 14:24:09.608","Oct 22, 2022 @ 14:20:45.000","updated, attributes_modified",/etc/gshadow-,root,-
+"Oct 22, 2022 @ 14:24:09.607",-,moved,/etc/group+,-,-
+"Oct 22, 2022 @ 14:24:09.605",-,moved,/etc/shadow+,-,-
+"Oct 22, 2022 @ 14:24:09.605","Oct 22, 2022 @ 14:24:09.598","updated, attributes_modified",/etc/shadow,root,-
+"Oct 22, 2022 @ 14:24:09.605","Oct 22, 2022 @ 14:20:45.000","updated, attributes_modified",/etc/group-,root,-
+"Oct 22, 2022 @ 14:24:09.603","Oct 22, 2022 @ 14:20:46.000","updated, attributes_modified",/etc/shadow-,root,-
+"Oct 22, 2022 @ 14:24:09.602",-,moved,/etc/passwd+,-,-
+"Oct 22, 2022 @ 14:24:09.602","Oct 22, 2022 @ 14:24:09.594","updated, attributes_modified",/etc/passwd,root,-
+"Oct 22, 2022 @ 14:24:09.601",-,attributes_modified,/etc/passwd+,-,-
+"Oct 22, 2022 @ 14:24:09.600","Oct 22, 2022 @ 14:20:45.000",attributes_modified,/etc/passwd-,root,-
+"Oct 22, 2022 @ 14:24:09.600","Oct 22, 2022 @ 14:24:09.594",created,/etc/passwd+,root,-
+"Oct 22, 2022 @ 14:24:09.599","Oct 22, 2022 @ 14:24:09.594","updated, attributes_modified",/etc/passwd-,root,-
+"Oct 22, 2022 @ 14:24:09.596","Oct 22, 2022 @ 14:24:09.586",created,/etc/shadow.lock,root,-
+"Oct 22, 2022 @ 14:24:09.596",-,deleted,/etc/shadow.513,-,-
+"Oct 22, 2022 @ 14:24:09.595","Oct 22, 2022 @ 14:24:09.586",created,/etc/subgid.lock,root,-
+"Oct 22, 2022 @ 14:24:09.595",-,deleted,/etc/subgid.513,-,-
+"Oct 22, 2022 @ 14:24:09.594","Oct 22, 2022 @ 14:24:09.586",created,/etc/subuid.lock,root,-
+"Oct 22, 2022 @ 14:24:09.594",-,deleted,/etc/subuid.513,-,-
+"Oct 22, 2022 @ 14:24:09.593","Oct 22, 2022 @ 14:24:09.586",created,/etc/gshadow.lock,root,-
+"Oct 22, 2022 @ 14:24:09.593",-,deleted,/etc/gshadow.513,-,-
+"Oct 22, 2022 @ 14:24:09.592","Oct 22, 2022 @ 14:24:09.586",created,/etc/group.lock,root,-
+"Oct 22, 2022 @ 14:24:09.592",-,deleted,/etc/group.513,-,-
+"Oct 22, 2022 @ 14:24:09.591","Oct 22, 2022 @ 14:24:09.586",created,/etc/group.513,root,-
+"Oct 22, 2022 @ 14:24:09.591",-,attributes_modified,/etc/group.513,-,-
+"Oct 22, 2022 @ 14:24:09.590","Oct 22, 2022 @ 14:24:09.586",created,/etc/passwd.lock,root,-
+"Oct 22, 2022 @ 14:24:09.590",-,deleted,/etc/passwd.513,-,-
+"Oct 22, 2022 @ 14:24:09.570","Oct 22, 2022 @ 14:24:09.566",created,/etc/rc3.d/S06initservice,root,-
+"Oct 22, 2022 @ 14:24:09.565","Oct 22, 2022 @ 14:24:09.558",created,/etc/init.d/initservice.sh,root,-
+"Oct 22, 2022 @ 14:24:09.562","Oct 22, 2022 @ 14:24:09.558",created,/usr/bin/service.sh,root,-
+"Oct 22, 2022 @ 14:23:55.119",-,user_login,-,-,adam
+"Oct 22, 2022 @ 14:23:36.525",-,process_stopped,-,-,-
+"Oct 22, 2022 @ 14:23:16.098",-,host,-,-,-
+"Oct 22, 2022 @ 14:21:37.703",-,user_login,-,-,vagrant
+"Oct 22, 2022 @ 13:49:29.315",-,process_stopped,-,-,-
+"Oct 22, 2022 @ 13:49:19.317",-,process_started,-,-,-
+"Oct 22, 2022 @ 13:41:34.967",-,user_added,-,-,rootusr
+"Oct 22, 2022 @ 13:41:33.521",-,deleted,/etc/shadow.lock,-,-
+"Oct 22, 2022 @ 13:41:33.521",-,deleted,/etc/passwd.lock,-,-
+"Oct 22, 2022 @ 13:41:33.520",-,deleted,/etc/gshadow.lock,-,-
+"Oct 22, 2022 @ 13:41:33.520",-,deleted,/etc/group.lock,-,-
+"Oct 22, 2022 @ 13:41:33.519",-,moved,/etc/gshadow+,-,-
+"Oct 22, 2022 @ 13:41:33.519","Oct 22, 2022 @ 13:41:33.513","updated, attributes_modified",/etc/gshadow,root,-
+"Oct 22, 2022 @ 13:41:33.517","Oct 22, 2022 @ 13:41:33.509","updated, attributes_modified",/etc/group,root,-
+"Oct 22, 2022 @ 13:41:33.517","Oct 22, 2022 @ 13:41:33.000","updated, attributes_modified",/etc/gshadow-,root,-
+"Oct 22, 2022 @ 13:41:33.516",-,moved,/etc/group+,-,-
+"Oct 22, 2022 @ 13:41:33.515","Oct 22, 2022 @ 13:41:33.000","updated, attributes_modified",/etc/group-,root,-
+"Oct 22, 2022 @ 13:41:33.514",-,deleted,/etc/gshadow.639,-,-
+"Oct 22, 2022 @ 13:41:33.513",-,deleted,/etc/group.639,-,-
+"Oct 22, 2022 @ 13:41:33.513","Oct 22, 2022 @ 13:41:33.509",created,/etc/gshadow.lock,root,-
+"Oct 22, 2022 @ 13:41:33.512",-,deleted,/etc/shadow.639,-,-
+"Oct 22, 2022 @ 13:41:33.512","Oct 22, 2022 @ 13:41:33.509",created,/etc/group.lock,root,-
+"Oct 22, 2022 @ 13:41:33.511","Oct 22, 2022 @ 13:41:33.509",created,/etc/passwd.lock,root,-
+"Oct 22, 2022 @ 13:41:33.511",-,deleted,/etc/passwd.639,-,-
+"Oct 22, 2022 @ 13:41:33.511","Oct 22, 2022 @ 13:41:33.509",created,/etc/shadow.lock,root,-
+"Oct 22, 2022 @ 13:41:33.507","Oct 22, 2022 @ 13:41:33.501","updated, attributes_modified",/etc/shadow,root,-
+"Oct 22, 2022 @ 13:41:33.506",-,moved,/etc/nshadow,-,-
+"Oct 22, 2022 @ 13:41:33.504","Oct 22, 2022 @ 13:41:33.501",created,/etc/nshadow,root,-
+"Oct 22, 2022 @ 13:41:33.489",-,deleted,/etc/subgid.lock,-,-
+"Oct 22, 2022 @ 13:41:33.488",-,deleted,/etc/group.lock,-,-
+"Oct 22, 2022 @ 13:41:33.488",-,deleted,/etc/gshadow.lock,-,-
+"Oct 22, 2022 @ 13:41:33.488",-,deleted,/etc/subuid.lock,-,-
+"Oct 22, 2022 @ 13:41:33.487",-,deleted,/etc/shadow.lock,-,-
+"Oct 22, 2022 @ 13:41:33.487",-,deleted,/etc/passwd.lock,-,-
+"Oct 22, 2022 @ 13:41:33.486",-,moved,/etc/subgid+,-,-
+"Oct 22, 2022 @ 13:41:33.486","Oct 22, 2022 @ 13:41:33.473","updated, attributes_modified",/etc/subgid,root,-
+"Oct 22, 2022 @ 13:41:33.485","Oct 22, 2022 @ 13:41:33.473","updated, attributes_modified",/etc/subuid,root,-
+"Oct 22, 2022 @ 13:41:33.485","Oct 4, 2022 @ 05:41:49.000",created,/etc/subgid-,root,-
+"Oct 22, 2022 @ 13:41:33.484",-,moved,/etc/subuid+,-,-
+"Oct 22, 2022 @ 13:41:33.483","Oct 22, 2022 @ 13:41:33.469","updated, attributes_modified",/etc/gshadow,root,-
+"Oct 22, 2022 @ 13:41:33.483","Oct 4, 2022 @ 05:41:49.000",created,/etc/subuid-,root,-
+"Oct 22, 2022 @ 13:41:33.482",-,moved,/etc/gshadow+,-,-
+"Oct 22, 2022 @ 13:41:33.480","Oct 22, 2022 @ 13:15:47.000","updated, attributes_modified",/etc/gshadow-,root,-
+"Oct 22, 2022 @ 13:41:33.479","Oct 22, 2022 @ 13:41:33.469","updated, attributes_modified",/etc/group,root,-
+"Oct 22, 2022 @ 13:41:33.478",-,moved,/etc/group+,-,-
+"Oct 22, 2022 @ 13:41:33.475","Oct 22, 2022 @ 13:41:33.465","updated, attributes_modified",/etc/shadow,root,-
+"Oct 22, 2022 @ 13:41:33.475","Oct 22, 2022 @ 13:15:47.000","updated, attributes_modified",/etc/group-,root,-
+"Oct 22, 2022 @ 13:41:33.474",-,moved,/etc/shadow+,-,-
+"Oct 22, 2022 @ 13:41:33.469","Oct 22, 2022 @ 13:15:48.000","updated, attributes_modified",/etc/shadow-,root,-
+"Oct 22, 2022 @ 13:41:33.467","Oct 22, 2022 @ 13:41:33.457","updated, attributes_modified",/etc/passwd,root,-
+"Oct 22, 2022 @ 13:41:33.465",-,created,/etc/passwd+,-,-
+"Oct 22, 2022 @ 13:41:33.465",-,moved,/etc/passwd+,-,-
+"Oct 22, 2022 @ 13:41:33.462","Oct 22, 2022 @ 13:15:47.000",attributes_modified,/etc/passwd-,root,-
+"Oct 22, 2022 @ 13:41:33.459","Oct 22, 2022 @ 13:41:33.457","updated, attributes_modified",/etc/passwd-,root,-
+"Oct 22, 2022 @ 13:41:33.415","Oct 22, 2022 @ 13:41:33.413",created,/etc/shadow.lock,root,-
+"Oct 22, 2022 @ 13:41:33.415",-,deleted,/etc/shadow.627,-,-
+"Oct 22, 2022 @ 13:41:33.414",-,deleted,/etc/subuid.627,-,-
+"Oct 22, 2022 @ 13:41:33.414","Oct 22, 2022 @ 13:41:33.409",created,/etc/subgid.lock,root,-
+"Oct 22, 2022 @ 13:41:33.414",-,deleted,/etc/subgid.627,-,-
+"Oct 22, 2022 @ 13:41:33.413","Oct 22, 2022 @ 13:41:33.409",created,/etc/subuid.lock,root,-
+"Oct 22, 2022 @ 13:41:33.412","Oct 22, 2022 @ 13:41:33.409",created,/etc/gshadow.lock,root,-
+"Oct 22, 2022 @ 13:41:33.412",-,deleted,/etc/gshadow.627,-,-
+"Oct 22, 2022 @ 13:41:33.411",-,deleted,/etc/group.627,-,-
+"Oct 22, 2022 @ 13:41:33.410","Oct 22, 2022 @ 13:41:33.409",created,/etc/group.lock,root,-
+"Oct 22, 2022 @ 13:41:33.409","Oct 22, 2022 @ 13:41:33.405",created,/etc/passwd.lock,root,-
+"Oct 22, 2022 @ 13:41:33.409",-,deleted,/etc/passwd.627,-,-
+"Oct 22, 2022 @ 13:41:19.315",-,process_stopped,-,-,-
+"Oct 22, 2022 @ 13:41:09.316",-,process_started,-,-,-
+"Oct 22, 2022 @ 13:36:27.389","Oct 22, 2022 @ 13:36:27.384",created,/usr/bin/service.sh,root,-
+"Oct 22, 2022 @ 13:36:19.315",-,process_stopped,-,-,-
+"Oct 22, 2022 @ 13:36:09.316",-,process_started,-,-,-
+"Oct 22, 2022 @ 13:34:02.570",-,user_login,-,-,adam
+"Oct 22, 2022 @ 13:32:33.950",-,host,-,-,-
+"Oct 22, 2022 @ 13:32:33.465","Oct 22, 2022 @ 13:29:55.793",attributes_modified,/etc/mtab,root,-
+"Oct 22, 2022 @ 13:31:15.733",-,user_login,-,-,vagrant
+"Oct 22, 2022 @ 13:30:54.391",-,host,-,-,-
